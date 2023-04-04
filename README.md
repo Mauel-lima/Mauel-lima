@@ -4,8 +4,6 @@
 - 👯 Construindo meus projetos.
 - ⚡ Curiosidade: Aprendo rápido, e adoro desafios.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauel-lima&theme=radicalk&show_icons=true)
-
 ## Tecnologias e Ferramentas que eu já domino!
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
@@ -22,11 +20,11 @@
              
 ## Contatos:
   <div>
-    <a href="https://instagram.com/15Mauel" target="_blank">
+    <a href="https://instagram.com/15Mauel"target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "manualvesdelima11@gmail.com" target="_blank">
-      <img src="https://logospng.org/wp-content/uploads/telegram.jpg" width="50px"></a> 
-    <a href = "https://www.linkedin.com/in/emanuel-de-lima-alves-722251219" target="_blank">
+    <a href = "https://www.linkedin.com/in/emanuel-de-lima-alves-722251219"target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "https://t.me/5561984161365"target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   </div>
   
