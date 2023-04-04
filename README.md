@@ -23,7 +23,7 @@
     <a href="https://instagram.com/15Mauel" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "manualvesdelima11@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+      <img src="https://logospng.org/wp-content/uploads/telegram.jpg" width="50px"></a> 
     <a href = "https://www.linkedin.com/in/emanuel-de-lima-alves-722251219" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
