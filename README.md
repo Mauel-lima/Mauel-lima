@@ -4,7 +4,7 @@
 - 👯 Construindo meus projetos.
 - ⚡ Curiosidade: Aprendo rápido, e adoro desafios.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauel-lima)](https://github.com/Mauel-lima/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauel-lima&theme=radicalk&show_icons=true)
 
 ## Tecnologias e Ferramentas que eu já domino!
   <div>
